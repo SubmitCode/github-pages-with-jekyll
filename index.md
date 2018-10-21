@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Trying out pages in Github.
 
-I'm glad you are here. I plan to talk about ...
+Wondering where it leads me to.
